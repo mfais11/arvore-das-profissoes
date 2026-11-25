@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Árvore Genealógica da Família
 
 Um projeto visual desenvolvido para representar a estrutura familiar de forma organizada, criativa e ilustrativa, apresentando os integrantes da família, seus respectivos graus de parentesco, profissões e atividades profissionais.
@@ -41,7 +43,7 @@ O projeto apresenta uma identidade visual baseada em:
 Cada integrante possui uma identificação com sua profissão ou ocupação e uma breve descrição de suas atividades.
 
 | Integrante | Profissão/Ocupação |
-|---|---|
+| :--- | :--- |
 | Manoelina | Empregada doméstica |
 | João | Aplicador de defensivos agrícolas |
 | Aparecida | Auxiliar de produção de medicamentos veterinários |
@@ -54,6 +56,8 @@ Cada integrante possui uma identificação com sua profissão ou ocupação e um
 ## Objetivo
 
 Representar a história e a composição familiar de maneira visual, valorizando os laços entre as gerações e apresentando um pouco da trajetória e das atividades de cada integrante.
+
+</div>
 
 ---
 
