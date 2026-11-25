@@ -1,4 +1,5 @@
 <div align="justify">
+  
 ## Três profissões: o que mudou e o que vai mudar
 
 **Período analisado:** 2006–2026 | **Previsões:** 2026–2036
