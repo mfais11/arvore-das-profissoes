@@ -44,9 +44,9 @@ Cada integrante possui uma identificação com sua profissão ou ocupação e um
 
 | Integrante | Profissão/Ocupação |
 | :--- | :--- |
-| Manoelina | Empregada doméstica |
-| João | Aplicador de defensivos agrícolas |
-| Aparecida | Auxiliar de produção de medicamentos veterinários |
+| Manoelina | Trabalhava como empregada doméstica e dona de casa |
+| João | Trabalhava como aplicador de defensivos agrícolas |
+| Aparecida | Trabalhava como auxiliar de produção de medicamentos veterinários |
 | José | Trabalhava na manutenção da rede elétrica urbana |
 | Carlos | Operador de máquinas |
 | Cristiele | Analista de regras de negócio |
