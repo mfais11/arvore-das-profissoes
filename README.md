@@ -59,7 +59,7 @@ Representar a história e a composição familiar de maneira visual, valorizando
 
 ## Resultado Final
 
-![Árvore das Profissões](imagens/arvore.png) Resultado Final da Árvore das Profissões (Membros Mais Próximos)
+![Árvore das Profissões](imagem/arvore.png) Resultado Final da Árvore das Profissões (Membros Mais Próximos)
 
 </div>
 
