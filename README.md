@@ -2,17 +2,17 @@
 
 # Árvore Genealógica da Família (Membros Mais Próximos)
 
-Um projeto visual desenvolvido para representar a estrutura familiar de forma organizada, criativa e ilustrativa, apresentando os integrantes da família, seus respectivos graus de parentesco, profissões e atividades profissionais.
+Um projeto visual desenvolvido para representar a estrutura familiar de forma organizada, criativa e ilustrativa, apresentando os integrantes da família, seus graus de parentesco, profissões e atividades.
 
 ## Sobre o projeto
 
 Esta árvore genealógica foi criada com o objetivo de representar visualmente as relações familiares, facilitando a identificação das gerações e dos vínculos entre seus integrantes.
 
-O projeto possui um design delicado e moderno, utilizando tons de roxo e lilás, elementos decorativos e cartões individuais para apresentar cada pessoa.
+O projeto segue a identidade visual do meu portfólio: fundo creme com grade de pontinhos, cartões individuais com bordas marcadas e sombra deslocada, e detalhes coloridos de fundo. A cor de destaque, o verde, é usada apenas no cartão da Marina, que é a estudante.
 
 ## Estrutura familiar
 
-A árvore está organizada em três níveis:
+A árvore está organizada em três níveis, com uma linha por geração:
 
 ### Avós
 - **Manoelina** — Avó paterna.
@@ -30,28 +30,26 @@ A árvore está organizada em três níveis:
 
 ## Identidade visual
 
-O projeto apresenta uma identidade visual baseada em:
-
-- **Paleta de cores:** roxo, lilás e branco.
-- **Tipografia:** combinação de fontes elegantes e modernas.
-- **Elementos gráficos:** corações, estrelas, folhas e detalhes decorativos.
-- **Organização:** cartões individuais com bordas arredondadas.
-- **Conexões:** linhas pontilhadas e setas para representar os vínculos familiares.
+- **Paleta de cores:** creme, tons neutros e verde de destaque (só para a Marina), com manchas suaves em lilás, amarelo, azul e rosa no fundo.
+- **Tipografia:** nomes em fonte serifada e textos em fonte sem serifa, como no portfólio.
+- **Elementos gráficos:** estrelas, ondinhas, argolas e bolinhas decorativas.
+- **Organização:** cartões individuais com bordas arredondadas, inicial do nome, etiqueta de parentesco, profissão e a caixinha "O que faz".
+- **Conexões:** linhas pontilhadas ligando os casais (Manoelina e João, Aparecida e José, Carlos e Cristiele) e descendo até os filhos.
 
 ## Profissões e atividades
 
-Cada integrante possui uma identificação com sua profissão ou ocupação e uma breve descrição de suas atividades.
+Cada integrante possui uma identificação com sua profissão ou ocupação e uma breve descrição do que faz.
 
-| Integrante | Profissão/Ocupação |
-| :--- | :--- |
-| Manoelina | Trabalhava como empregada doméstica e dona de casa |
-| João | Trabalhava como aplicador de defensivos agrícolas |
-| Aparecida | Trabalhava como auxiliar de produção de medicamentos veterinários |
-| José | Trabalhava na manutenção da rede elétrica urbana |
-| Carlos | Operador de máquinas |
-| Cristiele | Analista de regras de negócio |
-| Marina | Estudante |
-| Gustavo | Estudante |
+| Integrante | Profissão/Ocupação | O que faz |
+| :--- | :--- | :--- |
+| Manoelina | Empregada doméstica e dona de casa | Cuida da limpeza, da comida e da organização da casa. |
+| João | Aplicador de defensivos agrícolas | Aplica produtos nas lavouras para proteger as plantações. |
+| Aparecida | Auxiliar de produção de medicamentos veterinários | Ajuda a preparar e embalar medicamentos para animais. |
+| José | Trabalhou na manutenção da rede elétrica urbana | Consertava e mantinha a rede de energia da cidade. |
+| Carlos | Operador de máquinas | Opera e controla as máquinas durante a produção. |
+| Cristiele | Analista de regras de negócio | Define e organiza as regras que guiam os processos da empresa. |
+| Marina | Estudante | Estuda e se dedica às tarefas da escola. |
+| Gustavo | Estudante | Estuda e se dedica às tarefas da escola. |
 
 ## Objetivo
 
@@ -59,7 +57,7 @@ Representar a história e a composição familiar de maneira visual, valorizando
 
 ## Resultado Final
 
-![Árvore das Profissões](imagem/arvore.png) Resultado Final da Árvore das Profissões (Membros Mais Próximos)
+![Árvore das Profissões da família](imagem/arvore.png) Resultado final da Árvore das Profissões (Membros Mais Próximos).
 
 </div>
 
