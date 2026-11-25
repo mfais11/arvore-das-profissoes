@@ -41,7 +41,7 @@ A árvore está organizada em três níveis, com uma linha por geração:
 Cada integrante possui uma identificação com sua profissão ou ocupação e uma breve descrição do que faz.
 
 | Integrante | Profissão/Ocupação |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Manoelina | Empregada doméstica e dona de casa | 
 | João | Aplicador de defensivos agrícolas | 
 | Aparecida | Auxiliar de produção de medicamentos veterinários | 
