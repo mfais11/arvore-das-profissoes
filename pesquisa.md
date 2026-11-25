@@ -42,6 +42,5 @@ O que a inteligência artificial poderá mudar nos próximos 10 anos?
 - O profissional poderá utilizar ferramentas inteligentes para propor melhorias.
 - A criatividade, o pensamento crítico e a tomada de decisões continuarão importantes.
 
-Ministério do Trabalho e Emprego+1
-Conclusão
+# Conclusão
 As três profissões passaram por mudanças importantes com o avanço da tecnologia. Nos próximos dez anos, a inteligência artificial poderá facilitar tarefas, aumentar a produtividade e criar novas necessidades de qualificação. Entretanto, o trabalho humano continuará importante para supervisionar, interpretar e tomar decisões.
