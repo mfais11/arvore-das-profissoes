@@ -57,6 +57,10 @@ Cada integrante possui uma identificação com sua profissão ou ocupação e um
 
 Representar a história e a composição familiar de maneira visual, valorizando os laços entre as gerações e apresentando um pouco da trajetória e das atividades de cada integrante.
 
+## Resultado Final
+
+![Árvore das Profissões](imagens/arvore.png) Resultado Final da Árvore das Profissões (Membros Mais Próximos)
+
 </div>
 
 ---
