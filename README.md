@@ -51,12 +51,6 @@ Cada integrante possui uma identificação com sua profissão ou ocupação e um
 | Marina | Estudante |
 | Gustavo | Estudante |
 
-## Visualização do projeto
-
-A imagem da árvore genealógica pode ser visualizada diretamente pelo GitHub, desde que esteja salva na pasta principal do repositório com o nome `arvore-familiar.png`.
-
-![Árvore Genealógica da Família](arvore-familiar.png)
-
 ## Objetivo
 
 Representar a história e a composição familiar de maneira visual, valorizando os laços entre as gerações e apresentando um pouco da trajetória e das atividades de cada integrante.
