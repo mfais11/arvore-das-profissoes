@@ -33,7 +33,7 @@ A árvore está organizada em três níveis, com uma linha por geração:
 - **Paleta de cores:** creme, tons neutros e verde de destaque (só para a Marina), com manchas suaves em lilás, amarelo, azul e rosa no fundo.
 - **Tipografia:** nomes em fonte serifada e textos em fonte sem serifa, como no portfólio.
 - **Elementos gráficos:** estrelas, ondinhas, argolas e bolinhas decorativas.
-- **Organização:** cartões individuais com bordas arredondadas, inicial do nome, etiqueta de parentesco, profissão e a caixinha "O que faz".
+- **Organização:** cartões individuais com bordas arredondadas, inicial do nome, etiqueta de parentesco, profissão e um breve detalhamento.
 - **Conexões:** linhas pontilhadas ligando os casais (Manoelina e João, Aparecida e José, Carlos e Cristiele) e descendo até os filhos.
 
 ## Profissões e atividades
