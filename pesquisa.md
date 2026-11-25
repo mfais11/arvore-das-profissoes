@@ -8,7 +8,6 @@ O que mudou nos últimos 20 anos no Brasil?
 - Surgiram equipamentos com sensores e controles digitais.
 - A produção passou a utilizar mais tecnologia para aumentar a produtividade e reduzir erros.
 Um exemplo: entre 2016 e 2021, a proporção de indústrias brasileiras que utilizavam pelo menos uma tecnologia digital passou de 48% para 69%. 
-Portal da Indústria+1
 
 O que a inteligência artificial poderá mudar nos próximos 10 anos?
 - Máquinas poderão identificar defeitos e falhas automaticamente.
