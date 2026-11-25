@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Árvore Genealógica da Família
+# Árvore Genealógica da Família (Membros Mais Próximos)
 
 Um projeto visual desenvolvido para representar a estrutura familiar de forma organizada, criativa e ilustrativa, apresentando os integrantes da família, seus respectivos graus de parentesco, profissões e atividades profissionais.
 
